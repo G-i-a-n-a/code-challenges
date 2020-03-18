@@ -12,7 +12,6 @@ public class isCryptSolution
     {
         long a, b, c;                      // longs for equation (a + b = c)
         String[] catArr = new String[3];   // Holds Strings to hold ints during concatenation
-        int[] beginArr = new int[3];       // Holds ints to mark beginning of each string in intArr
         int[] intArr = new int[42];        // Holds single digits translated from crypt
         int displacement = 0;              // Keeps track of where in intArr we are
 
@@ -39,9 +38,6 @@ public class isCryptSolution
                         // First deciphered
                         if(count == 0)
                         {
-                            // Save where this int begins
-                            beginArr[i] = count + displacement;
-
                             // There's a leading 0
                             if(toDecipher != 1 && intVal == 0)
                             {
