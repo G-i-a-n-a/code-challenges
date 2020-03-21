@@ -7,7 +7,7 @@ public class isCryptSolution
        It passes all tests, as well as hidden tests.
 
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
-     */
+    */
     static boolean isCryptSolutionAnswer(String[] crypt, char[][] solution)
     {
         long a, b, c;                      // longs for equation (a + b = c)
