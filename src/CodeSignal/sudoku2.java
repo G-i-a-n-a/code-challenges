@@ -5,11 +5,11 @@ import java.util.HashSet;
 public class sudoku2
 {
     /*
-       This is my solution for "sudoku2" on CodeSignal.
-       It passes all tests, as well as hidden tests.
+    This is my solution for "sudoku2" on CodeSignal.
+    It passes all tests, as well as hidden tests.
 
-       - Giana (Github: G-i-a-n-a - Website: Giana.dev)
-     */
+    - Giana (Github: G-i-a-n-a - Website: Giana.dev)
+    */
 
     int length = 9;   // Known length of rows/columns
 
