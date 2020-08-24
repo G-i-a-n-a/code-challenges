@@ -8,7 +8,7 @@ public class reverseAString
 
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
-    
+
     // java.util.* and java.util.streams.* have been imported for this problem.
     // You don't need any other imports.
 
