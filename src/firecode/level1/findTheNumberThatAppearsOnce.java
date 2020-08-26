@@ -6,6 +6,9 @@ public class findTheNumberThatAppearsOnce
        This is my solution for "Find the Number that Appears Once" on Firecode.
        It passes all tests.
 
+       Time complexity: O(n)
+       Space complexity: O(n)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 

@@ -6,6 +6,9 @@ public class reverseAString
        This is my solution for "Reverse a string" on Firecode.
        It passes all tests.
 
+       Time complexity: O(n)
+       Space complexity: O(n)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 

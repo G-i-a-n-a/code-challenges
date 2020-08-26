@@ -6,6 +6,9 @@ public class findTheMissingNumberInASetOfNumbersFrom1To10
        This is my solution for "Find the Missing Number in a Set of Numbers from 1 to 10" on Firecode.
        It passes all tests.
 
+       Time complexity: O(n)
+       Space complexity: O(1)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 

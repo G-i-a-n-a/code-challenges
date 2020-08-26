@@ -6,6 +6,9 @@ public class flipIt
        This is my solution for "Flip it!" on Firecode.
        It passes all tests.
 
+       Time complexity: O(m * n)
+       Space complexity: O(1)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 

@@ -6,6 +6,9 @@ public class repeatedElementsInAnArray
        This is my solution for "Repeated Elements in an Array" on Firecode.
        It passes all tests.
 
+       Time complexity: O(n)
+       Space complexity: O(n)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 

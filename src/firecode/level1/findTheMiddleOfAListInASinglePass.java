@@ -6,6 +6,9 @@ public class findTheMiddleOfAListInASinglePass
        This is my solution for "Find the Middle of a List in a Single Pass" on Firecode.
        It passes all tests.
 
+       Time complexity: O(n)
+       Space complexity: O(1)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 

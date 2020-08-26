@@ -6,6 +6,9 @@ public class palindromeTester
        This is my solution for "Palindrome Tester" on Firecode.
        It passes all tests.
 
+       Time complexity: O(n)
+       Space complexity: O(1)
+
        - Giana (Github: G-i-a-n-a - Website: Giana.dev)
     */
 
