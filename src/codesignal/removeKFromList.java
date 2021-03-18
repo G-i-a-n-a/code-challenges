@@ -6,7 +6,7 @@ public class removeKFromList
     This is my solution for "removeKFromList" on CodeSignal.
     It passes all tests, as well as hidden tests.
 
-    - Giana (Github: G-i-a-n-a - Website: Giana.dev)
+    - Giana (Github: Giana - Website: Giana.dev)
     */
 
     // Singly-linked lists are already defined with this interface:

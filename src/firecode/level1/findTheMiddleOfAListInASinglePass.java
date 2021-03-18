@@ -9,7 +9,7 @@ public class findTheMiddleOfAListInASinglePass
        Time complexity: O(n)
        Space complexity: O(1)
 
-       - Giana (Github: G-i-a-n-a - Website: Giana.dev)
+       - Giana (Github: Giana - Website: Giana.dev)
     */
 
     // java.util.* and java.util.streams.* have been imported for this problem.

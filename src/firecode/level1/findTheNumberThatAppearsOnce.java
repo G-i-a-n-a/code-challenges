@@ -9,7 +9,7 @@ public class findTheNumberThatAppearsOnce
        Time complexity: O(n)
        Space complexity: O(n)
 
-       - Giana (Github: G-i-a-n-a - Website: Giana.dev)
+       - Giana (Github: Giana - Website: Giana.dev)
     */
 
     // java.util.* and java.util.streams.* have been imported for this problem.

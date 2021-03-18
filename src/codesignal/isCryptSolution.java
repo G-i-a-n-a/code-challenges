@@ -6,7 +6,7 @@ public class isCryptSolution
        This is my solution for "isCryptSolution" on CodeSignal.
        It passes all tests, as well as hidden tests.
 
-       - Giana (Github: G-i-a-n-a - Website: Giana.dev)
+       - Giana (Github: Giana - Website: Giana.dev)
     */
     static boolean isCryptSolutionAnswer(String[] crypt, char[][] solution)
     {
